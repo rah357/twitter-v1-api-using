@@ -1,6 +1,5 @@
 .idea
 .env
-.env.*
 *.sqlite
 node_modules
 *.bak
